@@ -1,1 +1,2 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=".l(R]Q|ZY6RAs(slKzyS" x="20" y="20"/><block type="device_forever" id="U!WvOBeGOF=P,keU+~Fs" x="225" y="20"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><comment id="Z9q~C,.obIZUG^-9GoCO" x="20" y="-170" h="161.72837829589844" w="551.8519287109375">Oppgave 15 b) 
+Lag et program hvor det gjelder å trykke så fort som mulig på A-knappen Vis ikoner på skjermen i forhold til antall trykk</comment><block type="pxt-on-start" id=".l(R]Q|ZY6RAs(slKzyS" x="20" y="20"/><block type="device_forever" id="U!WvOBeGOF=P,keU+~Fs" x="225" y="20"/></xml>
