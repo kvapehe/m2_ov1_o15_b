@@ -16,6 +16,9 @@ let t02 = 0
 basic.forever(function () {
 	
 })
+// Det er noe trøbbel med å ha alt dette inni en timer.
+// Bedre med en "evig" while-løkke og telle millisek mellom hvert trykk.
+// Uansett så telles det opp for hvert registrert trykk.
 loops.everyInterval(5000, function () {
     if (input.buttonIsPressed(Button.A)) {
         basic.showIcon(IconNames.Happy)
